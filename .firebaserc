@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fitlog-fc6be": {
+      "hosting": {
+        "jovankutija": [
+          "fitlog-fc6be"
+        ]
+      }
+    }
+  }
+}

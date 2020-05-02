@@ -121,8 +121,13 @@
               "devServerTarget": "jovankutija:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "jovankutija"
 }
